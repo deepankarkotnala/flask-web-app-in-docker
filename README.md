@@ -81,3 +81,4 @@ docker stop <container_id>
 ````
 docker image rm -f <image_name/image_id>
 ````
+ 
