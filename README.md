@@ -14,7 +14,6 @@ A Dockerfile is a text document that contains all the commands a user could call
 Requirements.txt consists of the required libraries which need to be installed for running this app.
 
 
-
 #### Command to build an image:
 
 ````
